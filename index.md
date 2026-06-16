@@ -24,6 +24,7 @@ Welcome to my portfolio! Here is a selection of my games, ongoing development wo
     <h3 style="margin-top: 0;">Super Galaxy Games</h3>
     <span style="display: inline-block; font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.5px; background: #e6f2ff; padding: 3px 8px; border-radius: 4px; margin-bottom: 12px; font-weight: bold; color: #0366d6;">qrnch Tech AB</span>
     <p>Solo-developed in Unreal Engine 5, Super Galaxy Games leverages advanced engine features like Lumen global illumination and realtime procedural mesh generation. The game boasts fully integrated Steam online multiplayer alongside a robust custom level editor with Steam Workshop support for sharing user-generated tracks and constructions. Although heavily optimized with a planned mobile port in mind, the project was forced into an early release due to company closure. Consequently, several unfinished features were cut, including a dynamic powerup system featuring bombs, grappling hooks, and jetpacks.</p>
+    [View on Steam](https://store.steampowered.com/app/2104430/Super_Galaxy_Games/)
     <a href="https://store.steampowered.com/app/2104430/Super_Galaxy_Games/">View on Steam</a>
   </div>
 </div>
