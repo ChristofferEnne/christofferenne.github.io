@@ -5,7 +5,7 @@ layout: default
 Welcome to my portfolio! Here is a selection of my games, ongoing development work, and side projects.
 
 <p style="margin-bottom: 40px;">
-  <a href="assets/your-cv.pdf" target="_blank" rel="noopener noreferrer" class="btn">View CV</a>
+  <a href="assets/chris-en.pdf" target="_blank" rel="noopener noreferrer" class="btn">View CV</a>
 </p>
 
 ## Games
